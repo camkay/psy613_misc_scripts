@@ -10,11 +10,11 @@ last_name  <- "Freud"
 paste(first_name, last_name)
 paste(first_name, last_name, sep = " ")
 
-# create a variable for the first and last sylable
+# create a variable for the first and last syllable
 first_syl <- "Sig"
 last_syl  <- "mund"
 
-# paste the sylables together 
+# paste the syllables together 
 paste(first_syl, last_syl)
 paste(first_syl, last_syl, sep = "")
 paste0(first_syl, last_syl)
